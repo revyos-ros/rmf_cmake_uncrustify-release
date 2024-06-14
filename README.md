@@ -1,3 +1,26 @@
+## rmf_cmake_uncrustify (jazzy) - 1.2.0-7
+
+The packages in the `rmf_cmake_uncrustify` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy rmf_cmake_uncrustify --override-release-repository-push-url git@github.com:revyos-ros/rmf_cmake_uncrustify-release.git` on `Fri, 14 Jun 2024 00:46:05 -0000`
+
+The `rmf_cmake_uncrustify` package was released.
+
+Version of package(s) in repository `rmf_cmake_uncrustify`:
+
+- upstream repository: https://github.com/open-rmf/rmf_cmake_uncrustify.git
+- release repository: https://github.com/revyos-ros/rmf_cmake_uncrustify-release.git
+- rosdistro version: `1.2.0-6`
+- old version: `1.2.0-6`
+- new version: `1.2.0-7`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rmf_cmake_uncrustify (foxy) - 1.2.0-1
 
 The packages in the `rmf_cmake_uncrustify` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --track foxy --ros-distro foxy rmf_cmake_uncrustify` on `Mon, 06 Sep 2021 02:38:51 -0000`
